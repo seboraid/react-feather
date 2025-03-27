@@ -240,6 +240,7 @@ export { default as Terminal } from './icons/terminal';
 export { default as Thermometer } from './icons/thermometer';
 export { default as ThumbsDown } from './icons/thumbs-down';
 export { default as ThumbsUp } from './icons/thumbs-up';
+export { default as TikTok } from './icons/tiktok';
 export { default as ToggleLeft } from './icons/toggle-left';
 export { default as ToggleRight } from './icons/toggle-right';
 export { default as Tool } from './icons/tool';

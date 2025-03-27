@@ -249,6 +249,7 @@ export const Terminal: Icon;
 export const Thermometer: Icon;
 export const ThumbsDown: Icon;
 export const ThumbsUp: Icon;
+export const TikTok: Icon;
 export const ToggleLeft: Icon;
 export const ToggleRight: Icon;
 export const Tool: Icon;
